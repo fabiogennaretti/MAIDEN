@@ -1,0 +1,50 @@
+---
+title: "MAIDEN-iso Publications"
+output:
+  html_document:
+    includes:
+      in_header: header-MAIDEN.html
+    css: styles.css
+---
+
+Hermoso de Mendoza, I., Boucher, E., Gennaretti, F., Lavergne, A., Andreu-Hayles, L., & Field, R. (2022). A new snow module improves predictions of isotope-enabled MAIDENiso forest growth model. Geoscientific Model Development. 15, 1931–1952. <a href="https://doi.org/10.5194/gmd-15-1931-2022" target="_blank"> https://doi.org/10.5194/gmd-15-1931-2022 </a>
+
+Rezsöhazy, J., Gennaretti, F., Goosse, H., & Guiot, J. (2021). Testing the performance of dendroclimatic process-based models at global scale with the PAGES2k tree-ring width database. Climate Dynamics. <a href="https://doi.org/10.1007/s00382-021-05789-7" target="_blank"> https://doi.org/10.1007/s00382-021-05789-7 </a>
+
+Rezsöhazy, J., Goosse, H., Guiot, J., Gennaretti, F., Boucher, E., André, F., & Jonard, M. (2020). Application and evaluation of the dendroclimatic process-based model MAIDEN during the last century in Canada and Europe. Climate of the Past, 16, 1043–1059.  <a href="https://doi.org/10.5194/cp-16-1043-2020" target="_blank"> https://doi.org/10.5194/cp-16-1043-2020 </a>
+
+Gennaretti, F., Boucher, E., Nicault, A., Gea-Izquierdo, G., Arseneault, D., Berninger, F., … Guiot, J. (2018). Underestimation of the Tambora effects in North American taiga ecosystems. Environmental Research Letters, 13(3), 34017. <a href="https://doi.org/10.1088/1748-9326/aaac0c" target="_blank"> https://doi.org/10.1088/1748-9326/aaac0c </a>
+ 
+Lavergne, A., Gennaretti, F., Risi, C., Daux, V., Boucher, E., Savard, M. M., … Guiot, J. (2017). Modelling tree ring cellulose δ18O variations in two temperature-sensitive tree species from North and South America. Clim. Past, 13(11), 1515–1526. <a href="https://doi.org/10.5194/cp-13-1515-2017" target="_blank"> https://doi.org/10.5194/cp-13-1515-2017 </a>
+ 
+Gennaretti, F., Gea-Izquierdo, G., Boucher, E., Berninger, F., Arseneault, D., & Guiot, J. (2017). Ecophysiological modeling of photosynthesis and carbon allocation to the tree stem in the boreal forest. Biogeosciences, 14(21), 4851–4866. <a href="https://doi.org/10.5194/bg-14-4851-2017" target="_blank"> https://doi.org/10.5194/bg-14-4851-2017 </a>
+ 
+Gea-Izquierdo, G., Nicault, A., Battipaglia, G., Dorado‐Liñán, I., Gutiérrez, E., Ribas, M., & Guiot, J. (2017). Risky future for Mediterranean forests unless they undergo extreme carbon fertilization. Global Change Biology, 23(7), 2915–2927. <a href="https://doi.org/10.1111/gcb.13597" target="_blank"> https://doi.org/10.1111/gcb.13597 </a>
+ 
+Gea-Izquierdo, G., Guibal, F., Joffre, R., Ourcival, J. M., Simioni, G., & Guiot, J. (2015). Modelling the climatic drivers determining photosynthesis and carbon allocation in evergreen Mediterranean forests using multiproxy long time series. Biogeosciences, 12(12), 3695–3712. <a href="https://doi.org/10.5194/bg-12-3695-2015" target="_blank"> https://doi.org/10.5194/bg-12-3695-2015 </a>
+ 
+Boucher, É., Guiot, J., Hatté, C., Daux, V., Danis, P. A., & Dussouillez, P. (2014). An inverse modeling approach for tree-ring-based climate reconstructions under changing atmospheric CO2 concentrations. Biogeosciences, 11(12), 3245–3258.  <a href="https://doi.org/10.5194/bg-11-3245-2014" target="_blank"> https://doi.org/10.5194/bg-11-3245-2014 </a>
+ 
+Danis, P. A., Hatté, C., Misson, L., & Guiot, J. (2012). MAIDENiso: a multiproxy biophysical model of tree-ring width and oxygen and carbon isotopes. Canadian Journal of Forest Research, 42(9), 1697–1713. <a href="https://doi.org/10.1139/x2012-089" target="_blank"> https://doi.org/10.1139/x2012-089 </a>
+ 
+Gaucherel, C., Campillo, F., Misson, L., Guiot, J., & Boreux, J. J. (2008). Parameterization of a process-based tree-growth model: Comparison of optimization, MCMC and Particle Filtering algorithms. Environmental Modelling and Software, 23(10–11), 1280–1288. <a href="https://doi.org/10.1016/j.envsoft.2008.03.003" target="_blank"> https://doi.org/10.1016/j.envsoft.2008.03.003 </a>
+ 
+Gaucherel, C., Guiot, J., & Misson, L. (2008). Changes of the potential distribution area of French Mediterranean forests under global warming. Biogeosciences, 5(6), 1493–1504. <a href="https://doi.org/10.5194/bg-5-1493-2008" target="_blank"> https://doi.org/10.5194/bg-5-1493-2008 </a>
+ 
+Misson, L., Rathgeber, C., & Guiot, J. (2004). Dendroecological analysis of climatic effects on Quercus petraea and Pinus halepensis radial growth using the process-based MAIDEN model. Canadian Journal of Forest Research, 34(4), 888–898. <a href="https://doi.org/10.1139/x03-253" target="_blank"> https://doi.org/10.1139/x03-253 </a>
+ 
+Misson, L. (2004). MAIDEN: a model for analyzing ecosystem processes in dendroecology. Canadian Journal of Forest Research, 34(4), 874–887. <a href="https://doi.org/10.1139/x03-252" target="_blank"> https://doi.org/10.1139/x03-252 </a>
+ 
+# Contacts, Social Media and News
+
+📍 UNIVPM, Fabio Gennaretti
+
+📧 f.gennaretti@univpm.it  
+
+--------------------------
+
+<a href="https://www.facebook.com/" target="_blank">
+  <img src="images/facebook_icon.png" width="30" alt="Facebook"/>
+</a>
+[Follow us on Facebook](https://www.facebook.com/)
+

@@ -1,0 +1,49 @@
+---
+title: "Dendro-Eco lab"
+author: "Dendro-Eco lab is XXX"
+output:
+  html_document:
+    css: styles.css
+    includes:
+      in_header: header.html
+---
+
+## Objectives
+
+- We study how climate affects forest growth and dynamics
+
+- We detect ecological changes in forest ecosystems
+
+- We contribute to sustainable forest management in a changing world
+
+## Research themes
+
+- Dendroclimatology
+
+- Forest dynamics
+
+- Forest carbon and productivity
+
+- Global change
+
+# Team {#team}
+
+# Projects, Tools and Partners {#projects}
+
+[MAIDEN-iso Ecophysiological Model](index.html)
+
+# Publications {#publications}
+
+# Contacts, Social Media and News {#contacts}
+
+📍 UNIVPM, Fabio Gennaretti
+
+📧 f.gennaretti@univpm.it  
+
+--------------------------
+
+<a href="https://www.facebook.com/" target="_blank">
+  <img src="images/facebook_icon.png" width="30" alt="Facebook"/>
+</a>
+[Follow us on Facebook](https://www.facebook.com/)
+

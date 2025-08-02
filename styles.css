@@ -1,0 +1,62 @@
+
+.top-navbar {
+  position: fixed;   
+  top: 0;                       /* in alto */
+  left: 0;
+  width: 100%;                  /* occupa tutta la larghezza */
+  background-color: #446E9B;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1000;                /* sopra il resto del contenuto */  
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);  
+}
+
+body {
+  margin-top: 80px; /* spazio sufficiente per non sovrapporre il contenuto */
+}
+
+.logo {
+  height: 50px;
+}
+
+.nav-text {
+  color: white;  
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.home-link {
+  color: white;  
+}
+
+.nav-menu a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: 500;
+}
+
+.nav-menu a:hover {
+  text-decoration: underline;
+}
+
+.feedback-box {
+  background-color: #7A9FC0;
+  border-left: 6px solid #446E9B;
+  padding: 16px;
+  margin: 20px 0;
+  border-radius: 4px;
+}
+
+.feedback-box h2 {
+  margin-top: 0;
+  color: white;
+}
+
+.feedback-box p {
+  color: white;
+}

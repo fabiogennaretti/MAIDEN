@@ -1,0 +1,42 @@
+---
+title: "MAIDEN-iso Contacts"
+output:
+  html_document:
+    includes:
+      in_header: header-MAIDEN.html
+    css: styles.css
+---
+
+📍 UNIVPM  
+Fabio Gennaretti
+
+Professore associato di ecologia forestale
+
+Department of Agricultural, Food and Environmental Sciences,
+
+Università Politecnica delle Marche,
+
+Via Brecce Bianche 10, 60131, Ancona, Italy
+
+📧 f.gennaretti@univpm.it  
+
+--------------------------
+
+📍 UQAT  
+Fabio Gennaretti
+
+Institut de recherche sur les forêts, GREMA, 
+
+Université du Québec en Abitibi Temiscamingue,
+
+Campus d’Amos
+
+📧 fabio.gennaretti@uqat.ca  
+
+--------------------------
+
+<a href="https://www.facebook.com/" target="_blank">
+  <img src="images/facebook_icon.png" width="30" alt="Facebook"/>
+</a>
+[Follow us on Facebook](https://www.facebook.com/)
+

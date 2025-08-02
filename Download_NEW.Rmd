@@ -1,0 +1,48 @@
+---
+title: "MAIDEN-iso Download"
+output:
+  html_document:
+    includes:
+      in_header: header-MAIDEN.html
+    css: styles.css
+---
+
+To have access to the most recent version of the MAIDEN-iso model, please, **ask to the contacts in the contact page**
+
+Otherwise, the last published version of the model is available on Zenodo and makes reference to the following paper:
+
+Hermoso de Mendoza, I., Boucher, E., Gennaretti, F., Lavergne, A., Andreu-Hayles, L., & Field, R. (in review). A new snow module improves predictions of isotope-enabled MAIDENiso forest growth model. Geoscientific Model Development Discussions, 2021, 1–35. doi: 10.5194/gmd-2021-275 (https://gmd.copernicus.org/preprints/gmd-2021-275/)
+
+Here you find the Zenodo links to the MAIDENiso code:
+
+- **Version without snow** (https://zenodo.org/record/5598076)
+- **Version with the new snow module** (https://zenodo.org/record/5597877)
+- Data of Hermoso de Mendoza et al. 2021 (https://zenodo.org/record/5599091)
+
+**The maidentools R package to handle and process MAIDEN results is now released**: [download here](documents/maidentools_1.0.2.tar.gz)
+
+To Install packages from local source visit the following link https://riptutorial.com/r/example/5556/install-package-from-local-source
+
+# MAIDEN-iso documentation
+
+[MAIDENiso_Documentation.pdf (PDF)](documents/MAIDENiso_Documentation_20230207.pdf)
+
+<div class="feedback-box">
+<h2>Comments and feedbacks</h2>
+
+<p>We encourage future users to give feedback, particularly when they find bugs or things to ameliorate in the model, documentation, and user’s manual. Current developers (see above) are available to discuss projects and simulation experiences using MAIDEN.</p>
+</div>
+
+# Contacts, Social Media and News
+
+📍 UNIVPM, Fabio Gennaretti
+
+📧 f.gennaretti@univpm.it  
+
+--------------------------
+
+<a href="https://www.facebook.com/" target="_blank">
+  <img src="images/facebook_icon.png" width="30" alt="Facebook"/>
+</a>
+[Follow us on Facebook](https://www.facebook.com/)
+
